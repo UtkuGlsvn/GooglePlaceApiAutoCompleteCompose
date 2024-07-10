@@ -6,7 +6,7 @@ This repository contains an Android project that demonstrates the usage of the G
 ### Installation
 
 git clone https://github.com/yourusername/GooglePlaceApiAutoCompleteCompose.git
-cd GooglePlaceApiAutoCompleteCompose
+
 
 - Open the project in Android Studio:
 
